@@ -1,0 +1,12 @@
+﻿  BankSystem.cpp
+C:\Desktop\vs code\BankSystem\MyLibrary.h(47,29): warning C4018: '<': signed/unsigned mismatch
+C:\Desktop\vs code\BankSystem\MyLibrary.h(56,27): warning C4018: '<': signed/unsigned mismatch
+C:\Desktop\vs code\BankSystem\MyLibrary.h(64,27): warning C4018: '<': signed/unsigned mismatch
+C:\Desktop\vs code\BankSystem\MyLibrary.h(97,37): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+C:\Desktop\vs code\BankSystem\BankSystem.cpp(77,33): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+C:\Desktop\vs code\BankSystem\BankSystem.cpp(925): warning C4715: 'DeleteUserByUsername': not all control paths return a value
+C:\Desktop\vs code\BankSystem\BankSystem.cpp(965): warning C4715: 'UpdateClientByAccountNumber': not all control paths return a value
+C:\Desktop\vs code\BankSystem\BankSystem.cpp(883): warning C4715: 'DeleteClientByAccountNumber': not all control paths return a value
+C:\Desktop\vs code\BankSystem\BankSystem.cpp(1032): warning C4715: 'DepositBalanceToClientByAccountNumber': not all control paths return a value
+C:\Desktop\vs code\BankSystem\BankSystem.cpp(1005): warning C4715: 'UpdateUserByUsername': not all control paths return a value
+  BankSystem.vcxproj -> C:\Desktop\vs code\BankSystem\Debug\BankSystem.exe
